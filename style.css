@@ -1,0 +1,21 @@
+.container{
+    max-width: 960px;
+    margin: 0 auto;
+    background: #f9f9f9;
+    font-size: 24px;
+    padding: 25px;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+/* .parallax{
+    background: url('https://images.pexels.com/photos/6212576/pexels-photo-6212576.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500') no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 500px;
+} */
+.parallax {
+    height: 500px;
+    background: transparent;
+}
